@@ -1,0 +1,108 @@
+
+body{
+    background-color: aquamarine;
+    font-family: 'Yuji Mai', serif;  
+    font-weight: bold; 
+    /* font-style: italic; */
+    background-image: url('https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWMlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    margin-top: 40px;
+}
+#h1{
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
+
+div{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Yuji Mai', serif;
+    
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-inline: 10em 10em 10em 10em;
+    padding: 0% 0 0 0 ;
+/* margin: 10 20 30 40; */
+    left: 50%;
+}
+
+.img{
+    padding: 100%;
+    left: 0cm;
+    height:100vh;
+    letter-spacing: 100px;
+}
+
+.Drums{
+    /* background-color: #AABBCC; */
+    opacity: 1;
+    height:150px;
+    width:100%;
+    border-color: solid blue;
+    border-radius: 100px;
+    margin-bottom: 200px;
+}
+
+@font-face {
+    font-family: 'Myfont';
+    src: url('https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap');
+}
+button{
+    background-color:lightpink;
+    padding: 2.5%;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    font-size:40px;
+}
+
+.w{
+    align-content:center;
+    background-image: url("./images/img1.jfif");
+    margin: 10px;
+    
+    color: goldenrod;
+}
+.a{
+    align-content:left;
+    background-image: url("./images/img2.jfif");
+    margin: 10px;
+    
+    color: goldenrod;
+}
+.s{
+    align-content:left;
+    background-image: url("./images/img3.jfif");
+margin: 10px;
+color: goldenrod;
+}
+.d{
+    align-content:left;
+    background-image: url("./images/img4.jfif");
+    margin: 10px;
+    
+    color: goldenrod;
+}
+.j{
+    align-content:left;
+    background-image: url("./images/img5.jfif");
+    margin: 10px;
+    
+    color: goldenrod;
+}
+.k{
+    align-content:left;
+    background-image: url("./images/img6.jfif");
+    margin: 10px;
+    
+    color: goldenrod;
+}
+.l{
+    align-content:left;
+    background-image: url("./images/img7.jfif");
+    margin: 10px;
+    color: goldenrod;
+}
